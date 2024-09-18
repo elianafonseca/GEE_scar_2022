@@ -26,7 +26,40 @@ Code:
 
 https://code.earthengine.google.com/43879643e2c9010d55b7ae0c99d6e307
 
-3. 
+3. NASA GPM - Global Precipitation Measurement
+
+Product information:
+
+https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06
+
+Code:
+
+https://code.earthengine.google.com/cd7ae88062d94447117f719baf7bc599
+
+4. Terraclimate
+
+Product information:
+
+https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE
+
+Code:
+
+https://code.earthengine.google.com/bffe364d5d61fa2cd394ba77fe7cb3d3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

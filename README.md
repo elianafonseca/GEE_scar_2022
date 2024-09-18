@@ -50,26 +50,3 @@ https://code.earthengine.google.com/bffe364d5d61fa2cd394ba77fe7cb3d3
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://code.earthengine.google.com/7678528070b2c06fa9e45ad5cb830a63
-
-
